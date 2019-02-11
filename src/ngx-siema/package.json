@@ -22,6 +22,6 @@
     "@angular/common": "^4.0.0"
   },
   "dependencies": {
-    "siema": "^1.4.6"
+    "siema": "git+https://github.com/shubham2102/siema.git"
   }
 }
