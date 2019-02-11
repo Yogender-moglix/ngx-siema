@@ -1,5 +1,5 @@
 {
-  "name": "SIEMA CUSTOM",
+  "name": "ngx-siema",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
