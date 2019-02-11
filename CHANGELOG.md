@@ -1,5 +1,5 @@
 <a name="2.0.1"></a>
-# [2.0.1](https://github.com/lexzhukov/ngx-siema/compare/2.0.0...2.0.1) (2017-08-19)
+# [2.0.1](https://github.com/lexzhukov/ngx-siema/compare/2.0.0...v2.0.1) (2017-08-19)
 
 
 ### Bug Fixes
