@@ -83,13 +83,13 @@
   "name": "ngx-siema",
   "optionalDependencies": {},
   "peerDependencies": {
-    "@angular/core": "^4.0.0",
-    "@angular/common": "^4.0.0"
+    "@angular/common": "^4.0.0",
+    "@angular/core": "^4.0.0"
   },
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shubham2102/ngx-siema.git"
+    "url": "git+https://github.com/Yogender-moglix/ngx-siema.git"
   },
   "typings": "index.d.ts",
   "version": "2.0.1"

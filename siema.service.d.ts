@@ -1,5 +1,4 @@
-import { Observable } from 'rxjs/Observable';
-import 'rxjs/add/operator/publish';
+import { Observable } from 'rxjs';
 export declare class NgxSiemaService {
     next(numbers?: number, selector?: string): Observable<{
         selector: string;
